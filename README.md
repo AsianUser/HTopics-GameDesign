@@ -4,35 +4,6 @@ Designing Game Designing
 
 - **Introduction:** A brief overview of the application/game, its purpose, and its target audience.
 
-**Top Genres:**
-~~Puzzle~~
-FPS
-Strategy - Tower Defense
-~~Simulation~~
-
-MUST BE MULTIPLAYER
-
-**Target:**
-Mobile gaming (primary)
-Able to cross-platform or play with emulators
-
-**Top Games:**
-Minecraft
-Fortnite
-WoW
-Amogus
-CSGO
-
-**Personal games:**
-Arknights
-WH40k Tacticus
-Rocket League
-Warthunder
-Enlisted
-
-**Misc:**
-Gacha? (help with retention)
-
 This game will be a hybrid between a tower-defense and FPS. The purpose is to provide the players with an engaging and immersive experience that combines strategic tower defense with FPS gameplay. The target audience are mobile gamers who enjoy strategy games. The game will cater to a variety of playstyles, from very active FPS gameplay to basically AFK.
 
 - **Value/Use:** A clear and explicit explanation of the value or use provided by the application/game.
@@ -50,6 +21,8 @@ During the "action" phase, the player returns to first-person and takes control 
 
 Victory is accomplished by successfully achieving an objective, be it defending a point or moving to capture one.
 
+Co-op gameplay will entail 2 or more players, each controlling their squad, going against waves of opponents or other teams of players.
+
 - **Competitive Element:** Details on how the application/game facilitates competition among students.
 
 The primary form of competition would come from achieving the highest score on levels. Score can be calculated from how fast was the objective achieved, how much damage was taken, how much damage was dealt, etc...
@@ -57,6 +30,13 @@ The primary form of competition would come from achieving the highest score on l
 PvP can be a potential feature. Two teams of players are deployed on opposite sides of a map with an objecive. Both simultaneously enter and exit a command phase. Afterwards, the units move according to the designated strategies until the next command phase. The first team to achieve their objective or defeat the opposing team wins.
 
 - **Engagement and Addictiveness Strategies:** An explanation of the features or strategies employed to make the application/game engaging and addictive.
+
+By encouraging a variety of strategies, we can appeal to various players. One can go with an entirely active game play style, where they basically ignore the command phase or one can play the game idly where they set up units during the command phase and let it run.
+The game can also adapt to the player. Similar to "The Director" in the "Left 4 Dead" series by Valve, different enemies can spawn that exclusively target player units, have a different pathing, etc... Implementing such a system will provide a new experience for each playthrough.
+
+We can add unit customization, upgrades, and cosmetics to encourage player investment and progression.
+A good plotline that the player follows as they complete missions can encourage a player to continue playing.
+Gacha elements can be introduced to unlock different cosmetics.
 
 - **Scalability and Expansion:** A discussion of how the design allows for future growth and adoption beyond the initial homework assignment.
 
