@@ -42,7 +42,6 @@ Gacha elements can be introduced to unlock different cosmetics.
 
 Levels can be regularly designed and added to the game.
 There can be different game modes centered around different objectives.
-New units can be added.
 
 - **Accessibility and Inclusivity:** A section detailing how the design adheres to the California non-discrimination clause and ensures inclusivity for all potential users.
 
